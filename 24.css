@@ -1,0 +1,143 @@
+body {
+
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: rgb(186, 36, 36);
+}
+
+.pimg1 {
+  background-image: url(1.jpg);
+  min-height: 100%;
+}
+
+.pimg2 {
+  background-image: url(2.jpg);
+  min-height: 400px;
+}
+
+.pimg3 {
+  background-image: url(3.jpg);
+  min-height: 400px;
+}
+
+.pimg1,
+.pimg2,
+.pimg3 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  padding: 0;
+  margin: 0;
+}
+
+.img24 {
+  width: 300px;
+  height: 250px;
+  border-radius: 10%;
+  border-style: outset;
+  border: 4px solid red;
+  animation-name: border;
+  animation-duration: 0.5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes border {
+  0% {
+    border-color: blue;
+  }
+
+  40% {
+    border-color: aqua;
+  }
+
+  60% {
+    border-color: yellow;
+  }
+  80%{
+    border-color:rgba(23, 199, 23, 0.856);
+  }
+  100%{
+    border-color: yellowgreen;
+  }
+}
+
+header {
+
+  width: 100%;
+  height: 70px;
+  text-align: center;
+  margin: 0px auto;
+  padding-top: 2px;
+}
+
+header nav ul {
+  margin: 20PX AUTO;
+  list-style-type: none;
+}
+
+header nav ul li {
+  display: inline;
+  padding: 11PX;
+
+}
+
+header nav ul li a {
+  color: rgb(254 225 118);
+  font-size: 24px;
+  text-decoration: none;
+  transition-duration: 1s;
+}
+
+
+header nav ul li a:hover {
+  color: rgb(186, 97, 97);
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.pimg30 {
+  background-image: url(17.jpg);
+  min-height: 100%;
+}
+
+.pimg31 {
+  background-image: url(18.jpg);
+  min-height: 400px;
+}
+
+.pimg32 {
+  background-image: url(16.jpg);
+  min-height: 400px;
+}
+
+.pimg31,
+.pimg32,
+.pimg30 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  padding: 0;
+  margin: 0;
+}
+
+.div1 {
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.div1 h3 {
+  line-height: 40px;
+}

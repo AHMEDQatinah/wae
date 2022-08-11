@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(9, 102, 139);
+    font-family: cursive;
+    height: 600px;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin: 50px auto;
+    border: 5px solid black;
+    padding: 5px;
+}
+
+
+p{
+    width: 60%;
+    margin: auto;
+    background-color: black;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}

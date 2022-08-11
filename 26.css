@@ -1,0 +1,87 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.img26{
+    width: 300px;
+    height: 250px;
+    border-radius: 10%;
+    border-style: outset;
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    margin: 0px auto;
+    padding-top: 2px;
+}
+
+header nav ul{
+    margin:20PX AUTO;
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline;
+   padding:11PX;
+
+}
+
+header nav ul li a{
+    color: rgb(23, 141, 51);
+    font-size: 24px;
+    text-decoration: none;
+    transition-duration: 1s;
+}
+
+
+header nav ul li a:hover{
+    color: rgb(45, 133, 201);
+    font-size: 30px;
+    text-decoration: underline;
+}
+.pimg4 {
+    background-image: url(excercie6/images/13.png);
+    min-height: 100%;
+  }
+  .pimg5 {
+    background-image: url(excercie6/images/2.png);
+    min-height: 400px;
+  }
+  .pimg6{
+    background-image: url(excercie6/images/12.png);
+    min-height: 400px;
+  }
+  .pimg4,
+  .pimg5,
+  .pimg6 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .div1{
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  .div1 h3{
+    line-height: 40px;
+  }
+
+  img{
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin: 50px auto;
+    border: 5px solid black;
+    padding: 5px;
+}
+
+  

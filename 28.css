@@ -1,0 +1,127 @@
+body{
+
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: rgb(15 13 48);
+  } 
+
+  
+  .pimg9 {
+    background-image: url("37.jpg");
+    min-height: 100%;
+  }
+  .pimg10 {
+    background-image: url("38.jpg");
+    min-height: 400px;
+  }
+  .pimg11{
+    background-image: url("35.jpg");
+    min-height: 400px;
+  }
+  .pimg9,
+  .pimg10,
+  .pimg11{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  
+    padding: 0;
+    margin: 0;
+}
+
+  .img28{
+    width: 300px;
+    height: 250px;
+    border-radius: 10%;
+    border-style: outset;
+}
+header{
+   
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    margin: 0px auto;
+    padding-top: 2px;
+}
+
+header nav ul{
+    margin:20PX AUTO;
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline;
+   padding: 11PX;
+
+}
+
+header nav ul li a{
+    color: #4128b2;
+    font-size: 24px;
+    text-decoration: none;
+    transition-duration: 1s;
+}
+
+
+header nav ul li a:hover{
+    color: rgb(109 140 158);
+    font-size: 30px;
+    text-decoration: underline;
+}
+.div1{
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.div1 h3{
+  line-height: 40px;
+}
+
+
+.img28{
+  width: 300px;
+  height: 250px;
+  border-radius: 10%;
+  border-style: outset;
+  transition-duration: 1s;
+  transition-property: all;
+  transition-delay: 0.1s;
+  border: 4px solid red;
+animation-name: border;
+animation-duration: 0.5s;
+animation-iteration-count: infinite;
+ 
+}
+.img28:hover{
+  transform: rotate(360deg);
+  height: 300px;
+  width: 340px;
+}
+@keyframes border {
+0% {
+  border-color: blue;
+}
+
+40% {
+  border-color: aqua;
+}
+
+60% {
+  border-color: yellow;
+}
+80%{
+  border-color:rgba(23, 199, 23, 0.856);
+}
+100%{
+  border-color: yellowgreen;
+}
+}

@@ -1,0 +1,297 @@
+.Mohk1{
+    text-shadow: 8px 10px 8px;
+}
+.css1{
+    background-color: blue;
+    text-shadow: 8  px 10px 8px;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+.img{
+background-image: url(Img/1.jpg); background-repeat: no-repeat;
+height: 250px;
+width: 188px;
+box-shadow: 8px 10px 8px;
+border: 5px solid black;
+border-radius: 5px;
+transition-duration: 2s;
+    transition-property: all;
+}
+
+.img:hover{
+    background-image: url(Img/14.jpg);
+    transition-duration: 2s;
+    transition-property: all;
+}
+.p{
+    box-shadow: 10px 10px 8px;
+    border: 5px solid black;
+    border-radius: 5px;
+    background-color: rgb(16, 140, 63);
+}
+.hi1{
+    background-image: url(Img/15.jpg); background-repeat: no-repeat;
+    width: 250px;
+    height: 168px;
+    box-shadow: 8px 10px 8px;
+    border: 5px solid black;
+    border-radius: 5px;
+    transition-duration: 2s;
+    transition-property: all;
+}
+.hi1:hover{
+    background-image: url(Img/2.jpg);
+    transition-duration: 2s;
+    transition-property: all;
+}
+.Text{
+    border: 5px solid white;
+    border-radius: 5px;
+    background-color: rgb(146, 37, 156);
+    box-shadow: 10px 10px 8px;
+    text-shadow: 10px 10px 8px;
+}
+.hi2{
+    background-image: url(Img/3.jpg); background-repeat: no-repeat;
+    width: 180px;
+    height: 250px;
+    border: 5px solid black;
+    border-radius: 5px;
+    box-shadow: 8px 10px 8px;
+}
+.hi4{
+    background-color: rgb(114, 73, 189);
+    border: 5px solid black;
+    border-radius: 5px;
+    box-shadow: 8px 10px 8px;
+}
+.hi4:hover{
+    background-image: url(Img/19.jpg);
+}
+.hi3{
+    background-image: url(Img/4.jpg); background-repeat: no-repeat;
+    height: 168px;
+    width: 299px;
+    border: 5px solid black;
+    border-radius: 5px;
+    box-shadow: 8px 10px 8px;
+    transition-duration: 2s;
+    transition-property: all;
+    transition-delay: 0.1s;
+}
+.hi3:hover{
+    background-image: url(img/18.jpg);
+    height: 1000px;
+    width: 1000px;
+    transition-duration: 2s;
+    transition-property: all;
+    transition-delay: 0.1s;
+}
+.ll{
+    background-color: rgb(228, 3, 3);
+    border: 5px solid black;
+    border-radius: 5px;
+    box-shadow: 8px 10px 8px;
+    text-shadow: 8px 10px 8px;
+}
+.hix a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.lll {
+    background-color: rgb(0, 0, 0);
+    color: black;
+    border: 5px solid black;
+    border-radius: 5px;
+    height: 30px;
+}
+.lll a{
+    text-decoration: none ;
+    color: purple;
+    padding: 10px;
+}
+.hi5{
+    background-image: url(Img/7.jpg); background-repeat: no-repeat;
+    height: 225px;
+    width: 225px;
+    border: 5px solid black;
+    border-radius: 5px;
+    transition-duration: 2s;
+    transition-property: all;
+}
+.hi5:hover{
+    background-image: url(Img/17.jpg);
+    width: 5000px;
+    height: 5000px;
+    transition-duration: 2s;
+    transition-property: all;
+}
+.hi5-2{
+    background-color: darkgrey;
+    border: 5px solid black;
+    border-radius: 5px;
+    text-shadow: 8px 10px 8px;
+    box-shadow: 8px 10px 8px;
+}
+body{
+    background-color: black;
+    color: white;
+    border: white solid 5px;
+    border-radius: 5px;
+}
+.llll {
+    background-image: url(Img/5.jpg); background-repeat: no-repeat;
+    border: 5px solid white;
+    border-radius: 5px;
+    width: 180px;
+    height: 263px;
+    transition-duration: 2s;
+    transition-property: all;
+}
+.llll:hover{
+    background-image: url(Img/16.png); background-repeat: no-repeat;
+    width: 5000px;
+    height: 5000px;
+    transition-duration: 2s;
+    transition-property: all;
+}
+.hii{
+    text-shadow: 8px 10px 8px;
+    box-shadow: 8px 10px 8px;
+    border: 5px solid white;
+    border-radius: 5px;
+}
+*body {
+    background-color: rgb(255, 255, 255);
+}
+h3{
+    color: rgb(112, 18, 18);
+    text-shadow: 8px 10px 8px;
+
+}
+.s2{
+    display: inline-block;
+    background-image: url(img/a.jpg);
+    background-repeat: no-repeat;
+    width: 220px;
+    height: 225px;
+    border: 5px solid rgb(112, 18, 18);
+    border-radius: 5px;
+    transition-duration: 2s;
+    transition-property: all;
+    transition-delay: 0.1s;
+    margin-left: 250px;
+    position: relative;
+    top: -230px;
+}
+.s2:hover{
+    background-image: url(img/g.jpg);
+    width: 180px;
+    height: 250px;
+    transition-duration: 2s;
+    transition-property: all;
+    transition-delay: 0.1s;
+}
+.s3{
+    display: inline-block;
+  background-image: url(img/b.jpg);
+  background-repeat: no-repeat;
+  width: 280px;
+  height: 159px;
+  border: 5px solid rgb(112, 18, 18);
+  border-radius: 5px;
+  transition-duration: 2s;
+  transition-property: all;
+  transition-delay: 0.1s;
+  margin-top: 300px;
+  position: relative;
+  top: -125px;
+  left: 10px;
+}
+
+
+.s4{
+    display: inline-block;
+    background-image: url(img/c.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 150px;
+    border: 5px solid rgb(112, 18, 18);
+    border-radius: 5px;
+    transition-duration: 2s;
+     transition-property: all;
+     transition-delay: 0.1s;
+     position: relative;
+     bottom: 85px;
+     right: 293px;
+     top: -300px;
+}
+.s4:hover{
+    background-image: url(img/d.jpg);
+     transition-duration: 2s;
+     transition-property: all;
+     transition-delay: 0.1s;
+}
+.s5{
+    display: inline-block;
+    background-image: url(img/e.jpg);
+    background-repeat: no-repeat;
+    width: 280px;
+    height: 160px;
+    border: 5px solid rgb(112, 18, 18);
+    transition-duration: 2s;
+    transition-property: all;
+    transition-delay: 0.1s;
+    margin-bottom: 200px;
+    position: relative;
+    right: 290px;
+    bottom: -90px;
+    right: -495px;
+    top: -120px;
+}
+.s5:hover{
+    background-image: url(img/f.jpg);
+    transition-duration: 2s;
+    transition-property: all;
+    transition-delay: 0.1s;
+}
+body{
+    height: 1000px;
+    background-color: rgba(49, 43, 43, 0.295);
+}
+.s6{
+    color: rgb(112, 18, 18);
+    text-shadow: 8px 10px 8px;
+}
+.s7{
+    background-image: url(img/h.jpg);
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(112, 18, 18);
+    margin-top: 15px;
+    margin-left: 1000px;
+    margin-top: 0px;
+    position: relative;
+    top: -835px;
+    right: 257px;
+    transition-duration: 2s;
+    transition-property: all;
+    transition-delay: 0.1s;
+
+}
+.s7:hover{
+    background-image: url(img/i.jpg);
+    background-repeat: no-repeat;
+    width: 170px;
+    height: 290px;
+    transition-duration: 2s;
+    transition-property: all;
+    transition-delay: 0.1s;
+}
+.sss a{
+text-decoration: none;
+color: rgb(112, 18, 18);
+}
+body{
+    border: 5px solid rgb(112, 18, 18);
+}

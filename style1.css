@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(44, 4, 4);
+}
+.nav-bar {
+    height: 50px;
+    margin-left: 280px;
+    padding-top: 15px;
+}
+.nav-bar a{
+    text-decoration: none;
+    margin-left: 30px;
+    padding-left: 30px;
+    color: white;
+}
+.image{
+    border-radius: 50%;
+    margin-left: 500px;
+}
+.text{
+    color: red;
+    margin-left: 490px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.netflix{
+    color: rgb(201, 195, 195);
+    margin-left: 160px;
+    margin-bottom: 10px;
+}
+
+
+.b{
+    color: white;
+    margin-left: 30px;
+    background-color: rgb(190, 115, 115);
+}
+.card1{
+    display: flex;
+    margin-left: 80px;
+}
+.div1{
+    background-color: rgb(44, 4, 4);
+    margin-right: 20px;
+}
+.container .card1 .div1{
+    margin: 2px;
+    background-color: rgb(190, 115, 115);
+}
+.c{
+    color: white;
+    margin-left: 70px;
+    background-color: rgb(190, 115, 115);
+}
+.card2{
+    display: flex;
+    margin-left: 80px;
+}
+.div2{
+    margin-left: 3px;
+}
+.container1 .card2 .div2{
+    margin: 2px;
+    background-color: rgb(190, 115, 115);
+}
+.d{
+    background-color: rgb(190, 115, 115);
+    color: white;
+    margin-left: 45px;
+}
+.e{
+   color: white;
+   margin-left: 70px;
+   background-color: rgb(190, 115, 115);
+}
+.anime{
+    margin-top: 9px;
+    margin-bottom: 9px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 100px;
+}
+.anime1{
+    color: white;
+    margin-left: 100px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+.image{
+    margin-top: 20px;
+}
+.card2{
+    margin-bottom: 40px;
+}
